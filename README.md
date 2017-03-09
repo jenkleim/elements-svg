@@ -1,3 +1,5 @@
 # elements-svg
 
-[SVG Elements](http://i6.cims.nyu.edu/~clh492/assignment2/)
+I extended Charlie Hurtt's SVG project.  
+
+[See the original repository here](https://github.com/Neon-Nexus/elements-svg.git)
